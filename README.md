@@ -1,1 +1,2 @@
 # redis
+##redis初始
